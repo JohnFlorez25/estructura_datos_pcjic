@@ -12,7 +12,7 @@ Módulo 1. Polinomios <br><br>
 Módulo 2. Matrices Dispersas <br><br>
 Módulo 3. Listas Generalizadas <br><br>
 Módulo 4. Árboles <br><br>
-Módulo 5. Gráfos <br><br>
+Módulo 5. Grafos <br><br>
 Módulo 6. Ordenamiento <br><br>
 Módulo 7. Búsqueda <br><br>
 Módulo 8. Archivos <br><br>
