@@ -33,7 +33,7 @@ Un computador maneja los datos como:
 ## Datos Estructurados
 
 - Arreglos.
-- Registros,
+- Registros.
 - Listas Ligadas.
 - Pilas,
 - Colas (Filas).
