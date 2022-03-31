@@ -6,28 +6,30 @@ Partiendo de un vector dado
   int vec [] = {4, -12, 0, 7, -87, 2};
 ```
 
+El método verifica si el vector en la posición dada es diferente de cero, **para no mostrar aquellos valores que tengan coeficiente CERO**, luego verifica si el coeficiente que se encuentra en la posición **k** es mayor a cero, si es mayor concatena con signo positivo (`+`) de lo contrario concatena con signo negativo (`-`)
+
 ## Implementación en Pseudocódigo
 ```
 Publico void mostrar( Entero vec[] )
   Cadena polinomio
-	Entero k = 0
+  Entero k 
   Entero exp = 0
-	Para( k=1; k < vec[0]+2 ); k++) 
-		Si(vec[k] != 0)
-			Si(vec[k]>0) && (k > 1)
-          polinomio = polinomio + " + " + vec[k] + "X^" + exp
-        si_no
-          polinomio = polinomio + " - " + ( vec[k] * (-1) ) + "X^" + exp;
-      Fin_si
-    Fin_si
+  Para( k=1; k < vec[0]+2 ); k++) 
+  	Si(vec[k] != 0)
+		Si(vec[k]>0)
+          		polinomio = polinomio + " + " + vec[k] + "X^" + exp
+       		 si_no
+          		polinomio = polinomio + " - " + ( vec[k] * (-1) ) + "X^" + exp;
+      		Fin_si
+    	Fin_si
   Fin_para
-  imprima(polinomio)
+imprima(polinomio)
 Fin_método
 ```
 ## Implementación en Java
 
 ```java
-  public static void mostrar(int vec[]){
+  public void mostrar(int vec[]){
         String polinomio = "";
         int k = 0;
         int exp = 0;
