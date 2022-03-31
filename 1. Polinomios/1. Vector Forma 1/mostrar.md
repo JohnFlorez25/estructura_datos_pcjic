@@ -10,7 +10,7 @@ El método verifica si el vector en la posición dada es diferente de cero, **pa
 
 ## Implementación en Pseudocódigo
 ```
-Publico void mostrar( Entero vec[] )
+método mostrar( Entero vec[] )
   Cadena polinomio
   Entero k 
   Entero exp = 0
@@ -23,7 +23,7 @@ Publico void mostrar( Entero vec[] )
       		Fin_si
     	Fin_si
   Fin_para
-imprima(polinomio)
+  imprima(polinomio)
 Fin_método
 ```
 ## Implementación en Java
