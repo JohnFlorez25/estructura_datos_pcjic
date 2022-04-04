@@ -12,16 +12,16 @@ y se debe corregir de la siguiente manera.
 ```
 método ajustar()
   entero: i , j , cont=0
-  Si Vec[2]=0 Entonces
+  Si Vec[1]=0 Entonces
       i = 1
-       Mientras  i< Vec[1] + 2 and Vec[ i ] = 0 Haga
+       Mientras  ( (i< Vec[0] + 2) and (Vec[ i ] == 0) ) Haga
            cont = cont+1
            i = i + 1
        Fin_mientras
-       Para j = i  hasta V[ 1 ]+ 2 , 1
+       Para (j = i  hasta V[ 0 ]+ 2 , j++)
             Vec[   j - cont ]= Vec[ j]
        Fin_para
-    Vec[ 1 ]= Vec[ 1 ]- cont
+    Vec[ 0 ]= Vec[ 0 ]- cont
   Fin_si
 Fin_método
 ```
