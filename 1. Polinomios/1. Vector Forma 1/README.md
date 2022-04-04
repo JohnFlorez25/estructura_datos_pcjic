@@ -20,3 +20,4 @@ En su forma general, un polinomio representado como vector forma 1 quedaría def
 2. [Ajustar](https://github.com/JohnFlorez25/estructura_datos_pcjic/blob/main/1.%20Polinomios/1.%20Vector%20Forma%201/ajustar.md)
 3. [Insertar Término](https://github.com/JohnFlorez25/estructura_datos_pcjic/blob/main/1.%20Polinomios/1.%20Vector%20Forma%201/insertarTermino.md)
 4. [Sumar](https://github.com/JohnFlorez25/estructura_datos_pcjic/blob/main/1.%20Polinomios/1.%20Vector%20Forma%201/sumar.md)
+5. [Multiplicar](https://github.com/JohnFlorez25/estructura_datos_pcjic/blob/main/1.%20Polinomios/1.%20Vector%20Forma%201/multiplicar.md)
