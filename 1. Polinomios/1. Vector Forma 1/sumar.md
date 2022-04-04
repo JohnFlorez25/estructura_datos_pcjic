@@ -7,7 +7,6 @@ El método realiza las siguientes tareas:
 1. Se determina cual de los dos polinomios a sumar tiene el mayor grado.
 2. Se construye el polinomio C con un tamaño igual al mayor grado más dos posiciones.
 3. Mientras hay datos en los dos polinomios se realizan las siguientes acciones:
-4. 
 - Si sus exponentes son iguales se interta en el polinomio C su suma y se avanza en los dos polinomios.
 - Si no son iguales se interta en el polinomio C el termino del mayor y se avanza en este polinomio.
 
