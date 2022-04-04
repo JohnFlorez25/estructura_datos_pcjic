@@ -12,7 +12,7 @@ y se debe corregir de la siguiente manera.
 ```
 método ajustar()
   entero: i , j , cont=0
-  Si Vec[1]=0 Entonces
+  Si ( Vec[0] == 0 ) Entonces
       i = 1
        Mientras  ( (i< Vec[0] + 2) and (Vec[ i ] == 0) ) Haga
            cont = cont+1
