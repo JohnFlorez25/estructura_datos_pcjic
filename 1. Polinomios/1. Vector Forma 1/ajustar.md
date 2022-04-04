@@ -12,8 +12,8 @@ y se debe corregir de la siguiente manera.
 ```
 método ajustar()
   entero: i , j , cont=0
-  Si ( Vec[0] == 0 ) Entonces
-      i = 1
+  Si ( Vec[1] == 0 ) Entonces
+       i = 1
        Mientras  ( (i< Vec[0] + 2) and (Vec[ i ] == 0) ) Haga
            cont = cont+1
            i = i + 1
@@ -37,7 +37,6 @@ public static void ajustar(int vec[]){
             {
                 //Identifica el ajuste del polinomio
                 cont = cont +1;
-                //Determina el grado REAL del Polinomio
                 i = i+1;
             }
             for( int j = i; j < vec[0]+2; j++)
