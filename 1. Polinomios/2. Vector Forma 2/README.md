@@ -16,7 +16,7 @@ En su forma general, un polinomio representado como vector forma 2 quedaría def
 
 ## Métodos Principales Polinomio Vector Forma 2
 
-1. [Mostrar](https://github.com/JohnFlorez25/estructura_datos_pcjic/blob/main/1.%20Polinomios/1.%20Vector%20Forma%202/mostrar.md)
-2. [Insertar Término](https://github.com/JohnFlorez25/estructura_datos_pcjic/blob/main/1.%20Polinomios/1.%20Vector%20Forma%202/insertarTermino.md)
-3. [Sumar](https://github.com/JohnFlorez25/estructura_datos_pcjic/blob/main/1.%20Polinomios/1.%20Vector%20Forma%202/sumar.md)
-4. [Multiplicar](https://github.com/JohnFlorez25/estructura_datos_pcjic/blob/main/1.%20Polinomios/1.%20Vector%20Forma%202/multiplicar.md)
+1. [Mostrar](https://github.com/JohnFlorez25/estructura_datos_pcjic/blob/main/1.%20Polinomios/2.%20Vector%20Forma%202/mostrar.md)
+2. [Insertar Término](https://github.com/JohnFlorez25/estructura_datos_pcjic/blob/main/1.%20Polinomios/2.%20Vector%20Forma%202/insertarTermino.md)
+3. [Sumar](https://github.com/JohnFlorez25/estructura_datos_pcjic/blob/main/1.%20Polinomios/2.%20Vector%20Forma%202/sumar.md)
+4. [Multiplicar](https://github.com/JohnFlorez25/estructura_datos_pcjic/blob/main/1.%20Polinomios/2.%20Vector%20Forma%202/multiplicar.md)
