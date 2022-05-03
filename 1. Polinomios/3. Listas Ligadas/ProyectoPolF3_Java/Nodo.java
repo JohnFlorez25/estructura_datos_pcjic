@@ -1,5 +1,3 @@
-package com.company;
-
 public class Nodo {
     //atributos de la clase
     private int coe;// para guardar el coe
