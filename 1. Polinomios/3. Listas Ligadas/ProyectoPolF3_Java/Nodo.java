@@ -32,7 +32,7 @@ public class Nodo {
     }
 
     //método encargado de asignar un nuevo valor a exp
-    public void asignarExp(int coe) {
+    public void asignarExp(int exp) {
         this.exp = exp;
     }     //método encargado de asignar un nuevo valor a la liga
 
