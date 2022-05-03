@@ -1,4 +1,3 @@
-# Clase Nodo
 
 <div align="center">
 
