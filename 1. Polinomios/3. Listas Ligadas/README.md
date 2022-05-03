@@ -18,7 +18,7 @@ La siguiente figura muestra la representación del polinomio en una lista ligada
 
 ## Métodos Principales Polinomio Lista Ligada
 
-1. [Mostrar]()
+1. [Clase Nodo]()
 2. [Insertar Término]()
 3. [Sumar]()
 4. [Multiplicar]()
