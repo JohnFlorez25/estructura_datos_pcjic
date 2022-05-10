@@ -1,2 +1,0 @@
-# Metodos Principales Matrices Dispersas
-

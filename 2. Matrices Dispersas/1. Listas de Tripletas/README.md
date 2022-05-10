@@ -17,5 +17,3 @@ Si tenemos la siguiente matriz dispersa de 8 Filas y 6 Columnas
 Su representación en **Lista de Tripletas** sería:
 
 ![Ejemplo Matriz Dispersa](../../assets/matrices_dispersas/dispersa_2.png)
-
-1. [Métodos Principales]()
