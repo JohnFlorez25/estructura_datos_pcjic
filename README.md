@@ -9,7 +9,7 @@ optar por la más apropiada, mediante el uso de algoritmos y lenguajes de progra
 ## Contenido del curso:
 
 [Módulo 1. Polinomios](https://github.com/JohnFlorez25/estructura_datos_pcjic/tree/main/1.%20Polinomios) <br><br>
-Módulo 2. Matrices Dispersas <br><br>
+[Módulo 2. Matrices Dispersas](https://github.com/JohnFlorez25/estructura_datos_pcjic/tree/main/2.%20Matrices%20Dispersas) <br><br>
 Módulo 3. Listas Generalizadas <br><br>
 Módulo 4. Árboles <br><br>
 Módulo 5. Grafos <br><br>
