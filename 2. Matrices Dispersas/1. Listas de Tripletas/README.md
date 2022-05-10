@@ -10,7 +10,7 @@ En la **primera tripleta** de la lista se almacena la **información de la matri
 
 A partir de la segunda tripleta se coloca cada uno de los términos diferentes de 0 **ordenados por filas  y dentro de las filas por columnas.**
 
-Si tenemos la siguiente matriz dispersa de 8 Filas y 6 Columnas
+Si tenemos la siguiente matriz dispersa de **8 Filas y 6 Columnas**
 
 ![Ejemplo Matriz Dispersa](../../assets/matrices_dispersas/dispersa_1.png)
 
