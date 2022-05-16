@@ -5,12 +5,12 @@ El método inserta el dato creando un nuevo Nodo y enviando este nodo creado com
 ## Implementación en Pseudocódigo
 
 ```
-Nodo:DispersaLista1::insertarDato(Entero: fila, columna, dato) {
+DispersaLista1::insertarDato(Entero: fila, columna, dato)
     Nodo q;
     q = nuevo Nodo(fila, columna, dato);
     ligarFila(q);
     ligarColumna(q);
-}
+fin_método
 ```
 
 ## Implementación en Java
