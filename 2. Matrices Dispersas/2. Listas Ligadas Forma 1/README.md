@@ -24,3 +24,11 @@ Podemos identificar las siguientes **Listas Ligadas Circulares por Filas y Colum
 Obteniendo la siguiente representación:
 
 ![Ejemplo LSCL F y C](../../assets/matrices_dispersas/dispersas_6.png)
+
+## Métodos Principales Matrices Dispersas representadas en Listas Ligadas Forma 1
+
+1. [Construir Cabezas]()
+2. [Ligar Fila]()
+3. [Ligar Columna]()
+4. [Insertar Término]()
+5. [Mostrar]()
