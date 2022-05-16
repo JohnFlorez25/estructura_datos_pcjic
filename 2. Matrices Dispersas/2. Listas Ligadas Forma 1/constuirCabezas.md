@@ -4,20 +4,20 @@ El método crea los nodos registro cabeza de cada fila y columna, utilizando una
 
 
 ```
-Nodo::DispersasLista1::construirCabezas(entero: n, m) {
+DispersasLista1::construirCabezas(entero: n, m) {
     punta = nuevo Nodo(n, m, 0);
     Nodo ant = punta;
     Entero mayor = mayor(n, m);
 
-    Para (Entero i = 0; i < mayor; i++) {
+    Para (Entero i = 0; i < mayor; i++) entonces
         q = new Nodo(i, i, 0);
         q.asignarLF(q);
         q.asignarLC(q);
         ant.asignarLiga(q);
         ant = q;
-    }
+    fin_para
     ant.asignarLiga(punta);
-}
+fin_método
 ```
 
 ## Implementación en Java
